@@ -1,6 +1,6 @@
 執行語法	SQL SERVER	
 ---
-> 執行語法 Oracle + Genero
+> 執行語法 SQL SERVER + Genero
 - PREPARE stmt FROM "exec master.dbo.Get_test2 @user_spid=?"
 - EXECUTE stmt USING ls_spid IN"
 - 執行 (sa)	SQL SERVER	
