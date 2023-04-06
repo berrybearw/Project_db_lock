@@ -1,3 +1,5 @@
+參考 : 如何給予一般 db user 執行 dba 權限 procedure
+> Josep - pg_terminate_backend for non-superusers
 pg_stat_active_allusers 給一般 user 查詢
 ```
 CREATE FUNCTION get_sa() RETURNS SETOF pg_stat_activity AS
